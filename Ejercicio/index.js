@@ -5,6 +5,7 @@ function calcularMayor(numero1, numero2) {
     alert("El número " + numero2 + " es mayor que " + numero1);
   } else {
     alert("Ambos números son iguales: " + numero1);
+  
   }
 }
 
